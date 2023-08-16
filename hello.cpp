@@ -1,1 +1,3 @@
-fuck off
+#include<iostream>
+using namespace std;
+
